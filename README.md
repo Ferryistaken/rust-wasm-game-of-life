@@ -1,3 +1,4 @@
+# THIS IS THE TEMPLATE RECOMMENDED FROM THE RUST WASM TUTORIAL
 <div align="center">
 
   <h1><code>wasm-pack-template</code></h1>
